@@ -1,0 +1,10 @@
+{
+    "name": "scraper-engine",
+    "version": "1.0.0",
+    "main": "scraper.js",
+    "dependencies": {
+        "dotenv": "^17.3.1",
+        "mongodb": "^7.1.0",
+        "puppeteer": "^24.37.3"
+    }
+}
